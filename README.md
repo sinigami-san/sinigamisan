@@ -1,2 +1,7 @@
-# sinigamisan
-my introduction
+# About
+- Japanese
+
+# Langages
+- JavaScript
+- C#
+- Python
