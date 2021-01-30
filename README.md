@@ -1,7 +1,7 @@
 # About
 - Japanese
 
-# Langages
+# Languages
 - JavaScript
 - C#
 - Python
